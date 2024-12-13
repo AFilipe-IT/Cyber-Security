@@ -21,7 +21,7 @@ Bem-vindo ao meu portfólio de **Segurança Cibernética**! Este repositório ap
 ### 1. 🕵️‍♂️ **Sistema de prevenção de intrusões utilizando machine learning**
 - **Objetivo**: Captura e análise de pacotes para identificar tráfego suspeito e vulnerabilidades.
 - **Tecnologias**: Wireshark, protocolos TCP/IP.
-- **Local**: [`IPS com Machine Learning`](./analise_trafego_wireshark/)
+- **Local**: [`IPS com Machine Learning`](https://github.com/AFilipe-IT/CyberSecurity/tree/main/Intrusion%20Prevention%20System%20(IPS)%20Using%20Machine%20Learning)
 
 ---
 
